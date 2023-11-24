@@ -1,0 +1,10 @@
+Results of program:
+result: 3.141592, step: 0.00000001, number of processes: 3.000000, time: 0s
+result: 3.141591, step: 0.00000001, number of processes: 100.000000, time: 0s
+result: 3.141595, step: 0.00000001, number of processes: 500.000000, time: 0s
+result: 3.141592, step: 0.000000001, number of processes: 3.000000, time: 1s
+result: 3.141589, step: 0.000000001, number of processes: 100.000000, time: 0s
+result: 3.141588, step: 0.000000001, number of processes: 500.000000, time: 0s
+result: 3.141592, step: 0.0000000001, number of processes: 3.000000, time: 5s
+result: 3.141587, step: 0.0000000001, number of processes: 100.000000, time: 3s
+result: 3.141587, step: 0.0000000001, number of processes: 500.000000, time: 3s

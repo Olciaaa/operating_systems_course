@@ -1,0 +1,14 @@
+Init: 5, real time: 18788.000000, user time: 0.000000, system time: 0.000000
+count: library.c, real time: 2461319.000000, user time: 0.000000, system time: 0.000000
+count: library.h, real time: 5246668.000000, user time: 0.000000, system time: 0.000000
+count: application.c, real time: 4779162.000000, user time: 0.000000, system time: 0.000000
+count: Makefile, real time: 5135887.000000, user time: 0.000000, system time: 0.000000
+lines: 105, words: 266, chars: 2356, filepath: library.c, real time: 918.000000, user time: 0.000000, system time: 0.000000
+lines: 26, words: 61, chars: 529, filepath: library.h, real time: 693.000000, user time: 0.000000, system time: 0.000000
+lines: 157, words: 550, chars: 5283, filepath: application.c, real time: 678.000000, user time: 0.000000, system time: 0.000000
+lines: 89, words: 370, chars: 3086, filepath: Makefile, real time: 663.000000, user time: 0.000000, system time: 0.000000
+block deleted successfully, real time: 5582.000000, user time: 0.000000, system time: 0.000000 
+block deleted successfully, real time: 715.000000, user time: 0.000000, system time: 0.000000 
+block deleted successfully, real time: 706.000000, user time: 0.000000, system time: 0.000000 
+block deleted successfully, real time: 696.000000, user time: 0.000000, system time: 0.000000 
+destroy, real time: 693.000000, user time: 0.000000, system time: 0.000000

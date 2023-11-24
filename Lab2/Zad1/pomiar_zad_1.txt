@@ -1,0 +1,14 @@
+Char to change: a
+New char: b
+Run times for fread and fwrite:
+REAL: 15322ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+Char to change: a
+New char: b
+Run times for read and write:
+REAL: 10304ns
+USER: 0ticks
+SYSTEM: 0ticks
+

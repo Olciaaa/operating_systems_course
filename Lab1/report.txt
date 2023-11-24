@@ -1,0 +1,4 @@
+Wyniki testów zapisane są w folderze /reports
+
+Ciężko mi interpretować wyniki testów, gdyż powychodziły one bardzo różnie. Zostały włączone kilkukrotnie podczas debugowania i za każdym razem inny typ biblioteki wykonywał program najszybciej. Co jest zauważalne to to, że zazwyczaj statyczna znacznie odbiega czasem od dynamicznej i dzielonej, raz na korzyść tej pierwszej a raz wręcz przeciwnie.
+Zauważalna jest również dysproporcja w kwestii czasu wykonywania poszczególnych funkcji, szczególnie funkcja init zachowuje się w zupełnie inny sposób niż pozostałe. Kiedy ona dla danego testu wykonuje się krócej, to pozostałe dłużej i na odwrót.

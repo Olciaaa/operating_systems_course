@@ -1,0 +1,2 @@
+Results of program:
+mail sent to root

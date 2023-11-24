@@ -1,0 +1,10 @@
+Run times for reverse char by char:
+REAL: 348896ns
+USER: 0ticks
+SYSTEM: 0ticks
+
+Run times for reverse with blocks:
+REAL: 8620ns
+USER: 0ticks
+SYSTEM: 0ticks
+

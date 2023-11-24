@@ -1,0 +1,22 @@
+Results of program:
+For ignore:
+IN OTHER PROGRAM SIGNAL IS NOT PENDING
+RAISE SIGNAL IN OTHER PROGRAM
+For handler:
+Received signal 10, parent: 13906, child: 13907
+Received signal 10, parent: 13907, child: 13908
+For mask:
+IN OTHER PROGRAM SIGNAL IS PENDING
+RAISE SIGNAL IN OTHER PROGRAM
+For pending:
+a 10 signal is pending, parent: 13914, child: 13915
+no 10 signals are pending, parent: 13915, child: 13916
+IN OTHER PROGRAM SIGNAL IS PENDING
+RAISE SIGNAL IN OTHER PROGRAM
+
+-> Dla opcji ignore i mask, ignorowanie sygnalu jest dziedzicznone zarowno w przypadku forka jak i execa.
+
+-> Pending sygnal z parenta jest dalej widoczny execu, ale nie w forku
+
+-> Przypisanie handlera do sygnalu dziedziczone jest przez forka, a przez execa nie (exec nadpisuje handler defaultowym zachowaniem, dlatego w przypadku testowanego sygnały wyrzuca program
+z błędem)
